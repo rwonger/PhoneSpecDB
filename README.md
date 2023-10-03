@@ -10,6 +10,9 @@ Developed by Morgan Dean, Ricky Wong, and Mike Zhang
 
 ## Project Organization
 
+### [ER Diagram](https://www.figma.com/file/VewdW3PPnoES36sSslKf8r/CPSC-304-Project?type=whiteboard&node-id=0-1)
+
+
 ### SQL Files
 * Put SQL files in `public_html/sql` to be accessed by php functions for most queries. This makes it easy to change an sql query without having to deal with php.
 * This will not work for most update or delete calls, but will work well for selects.
