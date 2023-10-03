@@ -1,6 +1,12 @@
 
 # PhoneSpecDB
 
+![image](https://github.com/rwonger/PhoneSpecDB/assets/89073648/f0e4e879-38a6-406b-abd2-4ca706a74aa6)
+
+
+PhoneSpecDB is a web-based Oracle DB interface that allows users to compare differences between phone specifications, phone manufacturers, and phone accessories. Users can select specific phones to compare to each other, view helpful statistics about manufactures and phones, and filter through the data in different ways. Overall, this project was a means to further understand and explore SQL, PHP, and the OracleSQL database.
+
+Developed by Morgan Dean, Ricky Wong, and Mike Zhang
 
 ## Project Organization
 
