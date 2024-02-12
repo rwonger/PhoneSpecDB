@@ -2,6 +2,8 @@
 # PhoneSpecDB
 
 ![image](https://github.com/rwonger/PhoneSpecDB/assets/89073648/6e54d450-3a7b-44b4-98b1-45ca5acd710d)
+![image](https://github.com/rwonger/PhoneSpecDB/assets/89073648/627be183-2976-4270-be1d-0f287f467b86)
+
 
 
 PhoneSpecDB is a web-based Oracle DB interface that allows users to compare differences between phone specifications, phone manufacturers, and phone accessories. Users can select specific phones to compare to each other, view helpful statistics about manufactures and phones, and filter through the data in different ways. Overall, this project was a means to further understand and explore SQL, PHP, and the OracleSQL database.
